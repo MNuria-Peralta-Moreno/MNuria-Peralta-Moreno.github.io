@@ -9,6 +9,7 @@ This is my personal portfolio website hosted on GitHub Pages. It showcases my pr
 - [About](#about)
 - [Projects](#projects)
 - [Skills](#skills)
+- [Publications](#publications)
 - [Contact](#contact)
 
 ## About
@@ -22,6 +23,10 @@ List your projects here, providing a brief description and links to their reposi
 ## Skills
 
 In this section, you can list your technical skills, programming languages, frameworks, and tools that you are proficient in. You can also mention any certifications or relevant courses you have completed.
+
+## Publications
+
+In this section, you can list your publications.
 
 ## Contact
 
